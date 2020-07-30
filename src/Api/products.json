@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/M63H24W7JF0-L302-ALTGHOST?wid=1500&fmt=jpeg&qlt=80&op_sharpen=0&op_usm=1.0,1.0,5,0&iccEmbed=0",
+    "name": "CHECK PRINT SHIRT",
+    "price": 110,
+    "inventory": 10
+  },
+  {
+    "id": 2,
+    "imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/FLGLO4FAL12-BEIBR?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
+    "name": "GLORIA HIGH LOGO SNEAKER",
+    "price": 91,
+    "inventory": 10
+  },
+  {
+    "id": 3,
+    "imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/HWVG6216060-TAN?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
+    "name": "CATE RIGID BAG",
+    "price": 94.5,
+    "inventory": 10
+  },
+  {
+    "id": 4,
+    "imgUrl": "http://guesseu.scene7.com/is/image/GuessEU/WC0001FMSWC-G5?wid=520&fmt=jpeg&qlt=80&op_sharpen=0&op_usm=1.0,1.0,5,0&iccEmbed=0",
+    "name": "GUESS CONNECT WATCH",
+    "price": 438.9,
+    "inventory": 10
+  },
+  {
+    "id": 5,
+    "imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/AW6308VIS03-SAP?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
+    "name": "70s RETRO GLAM KEFIAH",
+    "price": 20,
+    "inventory": 10
+  },
+  {
+    "id": 6,
+    "imgUrl": "https://66.media.tumblr.com/56662f7a19dda16764c6478e75f417fa/tumblr_pdqqhluiOL1vf8b0wo1_1280.jpg",
+    "name": "CHECK PRINT SHIRT",
+    "price": 110,
+    "inventory": 10
+  },
+  {
+    "id": 7,
+    "imgUrl": "https://66.media.tumblr.com/b0cc80d736d00854018d4b06d4fd60e8/tumblr_pbqh2tOUeu1vf8b0wo1_1280.jpg",
+    "name": "GLORIA HIGH LOGO SNEAKER",
+    "price": 91,
+    "inventory": 10
+  },
+  {
+    "id": 8,
+    "imgUrl": "https://66.media.tumblr.com/e9952cd5ac99ef8b4463f04c0373841c/tumblr_p86xu35FGm1vf8b0wo1_1280.jpg",
+    "name": "CATE RIGID BAG",
+    "price": 94.5,
+    "inventory": 10
+  },
+  {
+    "id": 9,
+    "imgUrl": "https://66.media.tumblr.com/ee4c9b1fb1af619d43e054e3287ead35/tumblr_pbrds2xAGs1vf8b0wo1_1280.jpg",
+    "name": "GUESS CONNECT WATCH",
+    "price": 438.9,
+    "inventory": 10
+  },
+  {
+    "id": 10,
+    "imgUrl": "https://66.media.tumblr.com/6780757c04cb236e4aed8c7a647a146b/tumblr_pbuaqsVmwT1vf8b0wo1_1280.jpg",
+    "name": "70s RETRO GLAM KEFIAH",
+    "price": 20,
+    "inventory": 10
+  },
+  {
+    "id": 11,
+    "imgUrl": "https://66.media.tumblr.com/8f8c72166a1726c78efc56f12a171d4c/tumblr_pbzuzoXShE1vf8b0wo1_1280.jpg",
+    "name": "CHECK PRINT SHIRT",
+    "price": 110,
+    "inventory": 10
+  },
+  {
+    "id": 12,
+    "imgUrl": "https://66.media.tumblr.com/c1fd82538c5c3b5256e38e3fa02570a1/tumblr_pc0g1wsotn1vf8b0wo1_1280.jpg",
+    "name": "GLORIA HIGH LOGO SNEAKER",
+    "price": 91,
+    "inventory": 10
+  },
+  {
+    "id": 13,
+    "imgUrl": "https://66.media.tumblr.com/3e7c99dbee80a50296430b8d6bdeabc6/tumblr_pc7bgdBIJl1vf8b0wo1_1280.jpg",
+    "name": "CATE RIGID BAG",
+    "price": 94.5,
+    "inventory": 10
+  },
+  {
+    "id": 14,
+    "imgUrl": "https://66.media.tumblr.com/3d30e1f82520645c02445d22f446612d/tumblr_pc7biajng61vf8b0wo1_1280.jpg",
+    "name": "GUESS CONNECT WATCH",
+    "price": 438.9,
+    "inventory": 10
+  },
+  {
+    "id": 15,
+    "imgUrl": "https://66.media.tumblr.com/13004fcaf026088b364b78de84b8dcbf/tumblr_pc7bjkrhME1vf8b0wo1_1280.jpg",
+    "name": "70s RETRO GLAM KEFIAH",
+    "price": 20,
+    "inventory": 10
+  }
+]
